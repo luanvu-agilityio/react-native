@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Heading renders correctly with default props (snapshot) 1`] = `
+<Text
+  accessibilityRole="header"
+  className="text-primary text-35 font-primary-extrabold"
+>
+  Hello
+</Text>
+`;

@@ -1,0 +1,101 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Poppins/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "src/assets/fonts/Poppins/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "src/assets/fonts/Poppins/Poppins-ExtraBold.ttf",
+      "sha1": "4b5c0750f073abd576413a0898d3b95adaf199c8"
+    },
+    {
+      "path": "src/assets/fonts/Poppins/Poppins-ExtraLight.ttf",
+      "sha1": "85af6582a7e6155917c605f9d3fed68c02b23b06"
+    },
+    {
+      "path": "src/assets/fonts/Poppins/Poppins-Light.ttf",
+      "sha1": "e247a92158e112f8bf7b638c8d95381d66b00dbb"
+    },
+    {
+      "path": "src/assets/fonts/Poppins/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "src/assets/fonts/Poppins/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "src/assets/fonts/Poppins/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "src/assets/fonts/Poppins/Poppins-Thin.ttf",
+      "sha1": "09ba4dcd5509c8085bf88c665dcc51cbdfced27b"
+    },
+    {
+      "path": "src/assets/fonts/League_Spartan/LeagueSpartan-Black.ttf",
+      "sha1": "04f7adc87c6b41441a4da0da11ebd41fdeec5f8d"
+    },
+    {
+      "path": "src/assets/fonts/League_Spartan/LeagueSpartan-Bold.ttf",
+      "sha1": "76679da9993609006a6e87c8fb7ed14603d8c3e0"
+    },
+    {
+      "path": "src/assets/fonts/League_Spartan/LeagueSpartan-ExtraBold.ttf",
+      "sha1": "7b233190118da8762723d193c2e15ff04271c5ad"
+    },
+    {
+      "path": "src/assets/fonts/League_Spartan/LeagueSpartan-ExtraLight.ttf",
+      "sha1": "a48c74ae8ff83e5b5526a492c9e6bd88fccc58a7"
+    },
+    {
+      "path": "src/assets/fonts/League_Spartan/LeagueSpartan-Light.ttf",
+      "sha1": "377d0c72775f1bfe566287f70e1be5da3534e438"
+    },
+    {
+      "path": "src/assets/fonts/League_Spartan/LeagueSpartan-Medium.ttf",
+      "sha1": "03f562710374a3e172d20d9523da4f14018a88f0"
+    },
+    {
+      "path": "src/assets/fonts/League_Spartan/LeagueSpartan-Regular.ttf",
+      "sha1": "f730d7be4d7a50427e86f0575eb1e513d3a2babe"
+    },
+    {
+      "path": "src/assets/fonts/League_Spartan/LeagueSpartan-SemiBold.ttf",
+      "sha1": "151804c69d2ae1d6d01e4208a84cac9afeb6412e"
+    },
+    {
+      "path": "src/assets/fonts/League_Spartan/LeagueSpartan-Thin.ttf",
+      "sha1": "4daf26b0c1c59f9534e3f202a34af8c1cbfdeacd"
+    },
+    {
+      "path": "src/assets/fonts/Inter/Inter-Black.otf",
+      "sha1": "68c456410eebd937a6496fff66d71311c8e844f7"
+    },
+    {
+      "path": "src/assets/fonts/Inter/Inter-Bold.otf",
+      "sha1": "c376b59a48facc029b9a384cc86f02992b2171ea"
+    },
+    {
+      "path": "src/assets/fonts/Inter/Inter-ExtraBold.otf",
+      "sha1": "2c724cc7236610e53e2060fd57b86c410889538d"
+    },
+    {
+      "path": "src/assets/fonts/Inter/Inter-Medium.otf",
+      "sha1": "699375c590a1879bde1b53a7949b2659292ee3b0"
+    },
+    {
+      "path": "src/assets/fonts/Inter/Inter-Regular.otf",
+      "sha1": "efd846697930d88ab013b64d4e0f2129cd7e971f"
+    },
+    {
+      "path": "src/assets/fonts/Inter/Inter-SemiBold.otf",
+      "sha1": "ff17bae635a4bffbaa773aa18ef3cfd8d6f41a17"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Typography renders correctly with default props (snapshot) 1`] = `
+<Text
+  className="text-dark text-base font-secondary"
+>
+  Body text
+</Text>
+`;

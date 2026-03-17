@@ -1,0 +1,304 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ToastContent renders error toast snapshot 1`] = `
+<View
+  accessibilityLabel="Error. Something went wrong."
+  accessibilityRole="alert"
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  className="flex-row items-center mx-4 px-4 py-3 rounded-2xl bg-red-500"
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+>
+  <View />
+  <View
+    className="flex-1 ml-3"
+  >
+    <Text
+      accessibilityRole="text"
+      className="text-white font-semibold text-sm"
+      numberOfLines={1}
+    >
+      Error
+    </Text>
+    <Text
+      accessibilityRole="text"
+      className="text-white text-xs opacity-90"
+      numberOfLines={2}
+    >
+      Something went wrong.
+    </Text>
+  </View>
+  <View
+    accessibilityLabel="Dismiss"
+    accessibilityRole="button"
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    className="ml-2"
+    collapsable={false}
+    focusable={true}
+    hitSlop={
+      {
+        "bottom": 8,
+        "left": 8,
+        "right": 8,
+        "top": 8,
+      }
+    }
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+  >
+    <View />
+  </View>
+</View>
+`;
+
+exports[`ToastContent renders info toast snapshot 1`] = `
+<View
+  accessibilityLabel="Info. Just so you know."
+  accessibilityRole="alert"
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  className="flex-row items-center mx-4 px-4 py-3 rounded-2xl bg-primary"
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+>
+  <View />
+  <View
+    className="flex-1 ml-3"
+  >
+    <Text
+      accessibilityRole="text"
+      className="text-white font-semibold text-sm"
+      numberOfLines={1}
+    >
+      Info
+    </Text>
+    <Text
+      accessibilityRole="text"
+      className="text-white text-xs opacity-90"
+      numberOfLines={2}
+    >
+      Just so you know.
+    </Text>
+  </View>
+  <View
+    accessibilityLabel="Dismiss"
+    accessibilityRole="button"
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    className="ml-2"
+    collapsable={false}
+    focusable={true}
+    hitSlop={
+      {
+        "bottom": 8,
+        "left": 8,
+        "right": 8,
+        "top": 8,
+      }
+    }
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+  >
+    <View />
+  </View>
+</View>
+`;
+
+exports[`ToastContent renders success toast snapshot 1`] = `
+<View
+  accessibilityLabel="Saved!. Your data has been saved."
+  accessibilityRole="alert"
+  accessibilityState={
+    {
+      "busy": undefined,
+      "checked": undefined,
+      "disabled": undefined,
+      "expanded": undefined,
+      "selected": undefined,
+    }
+  }
+  accessibilityValue={
+    {
+      "max": undefined,
+      "min": undefined,
+      "now": undefined,
+      "text": undefined,
+    }
+  }
+  accessible={true}
+  className="flex-row items-center mx-4 px-4 py-3 rounded-2xl bg-green-600"
+  collapsable={false}
+  focusable={true}
+  onBlur={[Function]}
+  onClick={[Function]}
+  onFocus={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+>
+  <View />
+  <View
+    className="flex-1 ml-3"
+  >
+    <Text
+      accessibilityRole="text"
+      className="text-white font-semibold text-sm"
+      numberOfLines={1}
+    >
+      Saved!
+    </Text>
+    <Text
+      accessibilityRole="text"
+      className="text-white text-xs opacity-90"
+      numberOfLines={2}
+    >
+      Your data has been saved.
+    </Text>
+  </View>
+  <View
+    accessibilityLabel="Dismiss"
+    accessibilityRole="button"
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    className="ml-2"
+    collapsable={false}
+    focusable={true}
+    hitSlop={
+      {
+        "bottom": 8,
+        "left": 8,
+        "right": 8,
+        "top": 8,
+      }
+    }
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+  >
+    <View />
+  </View>
+</View>
+`;

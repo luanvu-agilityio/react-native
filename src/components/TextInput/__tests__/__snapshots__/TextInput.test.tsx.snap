@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextInput renders correctly with required props 1`] = `
+<View>
+  <View
+    className="bg-cream rounded-2xl px-2 flex-row items-center py-0 focus-within:outline-none"
+  >
+    <TextInput
+      accessibilityLabel="Enter text"
+      accessibilityState={
+        {
+          "disabled": false,
+        }
+      }
+      className="flex-1 text-primary font-primary-medium text-xl py-2.5 focus:outline-none focus:ring-0 focus:border-transparent"
+      editable={true}
+      multiline={false}
+      numberOfLines={1}
+      onBlur={[Function]}
+      onChangeText={[Function]}
+      onFocus={[Function]}
+      placeholder="Enter text"
+      placeholderTextColor="#676767"
+      secureTextEntry={false}
+      textAlignVertical="center"
+      value=""
+    />
+  </View>
+</View>
+`;

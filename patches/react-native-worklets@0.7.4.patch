@@ -1,0 +1,13 @@
+diff --git a/android/CMakeLists.txt b/android/CMakeLists.txt
+index 7ce60581c4dedee1465bd187fa09df383186ed77..93b64eb28f928d47c3a34710feecd49ee738d041 100644
+--- a/android/CMakeLists.txt
++++ b/android/CMakeLists.txt
+@@ -89,7 +89,7 @@ target_include_directories(
+ set_target_properties(worklets PROPERTIES LINKER_LANGUAGE CXX)
+ 
+ target_link_libraries(worklets log ReactAndroid::reactnative ReactAndroid::jsi
+-                      fbjni::fbjni)
++                      fbjni::fbjni c++_shared)
+ 
+ if(${JS_RUNTIME} STREQUAL "hermes")
+   if(ReactAndroid_VERSION_MINOR GREATER_EQUAL 82)
