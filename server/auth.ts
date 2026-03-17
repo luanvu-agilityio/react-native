@@ -33,7 +33,6 @@ export const auth = betterAuth({
   trustedOrigins: [
     'http://10.0.2.2:3000', // Android emulator → host machine
     'http://localhost:3000', // iOS simulator / local dev
-    // Render (or any custom domain) — automatically trusted when BETTER_AUTH_URL is set
     ...(process.env.BETTER_AUTH_URL ? [process.env.BETTER_AUTH_URL] : []),
   ],
 
