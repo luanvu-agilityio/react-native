@@ -4,7 +4,7 @@ services:
     runtime: node
     region: oregon
     plan: starter
-    buildCommand: npm install -g pnpm && pnpm install --frozen-lockfile
+    buildCommand: npm install -g pnpm && pnpm install --no-frozen-lockfile
     startCommand: node node_modules/tsx/dist/cli.mjs server/index.ts
     healthCheckPath: /health
     envVars:
